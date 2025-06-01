@@ -1,4 +1,4 @@
-# HealthSys - Sistema de Gerenciamento de Pacientes
+# Sistema de Gerenciamento de Pacientes
 
 ## Descrição
 
