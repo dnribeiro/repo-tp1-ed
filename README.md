@@ -1,5 +1,7 @@
 # Sistema de Gerenciamento de Pacientes
 
+## Aluno: Davi Nunes Ribeiro
+
 ## Descrição
 
 O repositório contém um sistema simplificado de gerenciamento de dados de pacientes desenvolvido em linguagem C. O sistema permite consultar e listar registros de pacientes armazenados em um arquivo CSV.
